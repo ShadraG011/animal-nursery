@@ -4,6 +4,7 @@ class App {
      */
     public static void main(String[] args) {
         Run run = new Run();
+        System.out.println("Программы работает в штатном режиме");
         run.buttonRun();
     }    
 }
