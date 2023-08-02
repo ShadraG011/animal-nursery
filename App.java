@@ -6,5 +6,6 @@ class App {
         Run run = new Run();
         System.out.println("Программы работает в штатном режиме");
         run.buttonRun();
+        System.out.println("Программа завершила работу");
     }    
 }
